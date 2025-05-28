@@ -1,5 +1,5 @@
 Originally called the "yippee squad", this group was made by [[Sebastian]] as a WhatsApp group chat to talk with his only two friends at the time [[Valentina]] and [[Yandel]].
-[[Yandel]] wanted [[Sebastian]] to have a partner, so he told him to join [[Jhonny]], a gay guy, to the group chat, saying [[Jhonny]] didn't have friends at all (which was a lie).
+[[Yandel]] wanted for [[Sebastian]] to have a boyfriend, so he told him to join [[Jhonny]], a gay guy, to the group chat, saying [[Jhonny]] didn't have friends at all (which was a lie).
 
 After [[Jhonny]], other people started joining to the group, these being [[Jayden]], [[Jiali]], [[Eliesser]], [[Crhistian]], [[Mikaela]], and [[Karen]]
 
