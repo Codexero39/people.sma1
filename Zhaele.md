@@ -28,4 +28,3 @@ Zhaele grew up in a troubled household, her parents were always fighting which m
 
 Zhaele doesn't talk a lot about this topic with people, because she fears not being taken seriously, reason why you need to show her you're a reliable person before actually asking any questions.
 
-testing
