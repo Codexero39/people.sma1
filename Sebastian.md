@@ -1,3 +1,5 @@
+## basic information 
+
 Birthday : October 27th 2009
 Sign : Scorpio
 
@@ -10,7 +12,7 @@ He is good with logic, stuff that can be predicted, and numbers in general.
 
 He used to make super simple games during 2021-early 2023, first with an old phone, and then with a semi modern 2014 computer that had almost zero positive features since it was modified for someone without his consent.
 
-His main friends currently are
+## Main friends
 
 >[[Esteban]]
 >[[Kamilah]]
@@ -20,12 +22,15 @@ His main friends currently are
 >[[Bryant]]
 >[[Miguel G]]
 >[[Emily B]]
+>[[Jhonny]]
+>[[Atlas]]
 
 And some more, they are not necessarily in any specific order, nor they are in one compact group but rather in small connections, they all know a little bit of each other, but no one knows anyone completely or enough to be close friends.
 
-Sebastian is not someone very serious, since he often tends to joke about everything, but not being serious doesn't make him "funny" just unserious in a weird way. He is constantly reminded of this by the [[main group of 2024-2025]].
+## notes and extra info
+
+Sebastian is not someone very serious, since he often tends to joke about everything, but not being serious doesn't make him "funny" just unserious in a weird way. He is constantly reminded of this by the [[main group of 2024-2025]], though he seems to not care.
 
 Sebastian was bullied by his old friend group ([[main group of 2023-2024]]) which is the reason he left it and stopped being close friends with some of the members of it.
 
-He is a very curious guy, reason why he decided to investigate all of his main friends (and some secondary friends) life's. He wants to learn as much as he can about them.
-
+He is a guy with a lot of curiosity, reason why he started learning a lot of random stuff, mostly related to relationships and coding.
