@@ -10,9 +10,12 @@ Rebecca is also the best basketball player in her gym class, and the best volley
 ## Main friends
 
 >[[Zhaele]]
+>
 >[[Kamilah]]
+>
 >[[Sebastian]]
->Emily N
+>
+>Emily T
 
 I don't have the knowledge of who her other main friends are, this will probably get updated soon
 
