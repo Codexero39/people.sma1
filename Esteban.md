@@ -10,6 +10,7 @@ Esteban was a shy guy, but after 2022 he started gaining way more confidence
 ## Main friends
 
 > [[Fiorella]]
+> 
 > [[Valleleth]]
 
 ## notes and extra info
