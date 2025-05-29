@@ -14,9 +14,10 @@ Jayden has a job at a Taco place, his uncle was the one who got the job for him 
 >
 > [[Eliesser]]
 
-## notes and extra info
+## partner situation
 
 Jayden has a girlfriend [[Jiali]]. She already was a part of the [[main group of 2023-2024]] before getting in a closer relationship with Jayden. Currently (may 16th 2025) there is not much to say about this relationship.
+## notes and extra info
 
 Jayden is one of [[Jhonny]]'s closest friends. Jayden always tries to help [[Jhonny]] with his internal problems. In [[Jhonny]]'s own words, Jayden is like a big brother to him. Jayden seemed to know about [[Jhonny]]'s crush on him, but didn't do anything about it until he got in his relationship with [[Jiali]].
 
