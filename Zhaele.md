@@ -10,9 +10,13 @@ Zhaele has a lot of internal troubles, she has an unique face, which she dislike
 ## main friends
 
 >[[Rebecca]]
+>
 >[[Kamilah]]
+>
 >[[Bryant]]
+>
 >[[Lindsay]]
+>
 >[[Sebastian]]
 
 She's part of the [[main group of 2024-2025]]
