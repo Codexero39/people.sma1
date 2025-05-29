@@ -9,6 +9,7 @@ Jiali doesn't open up to a lot of people, and at first sight it seems like she d
 ## Main friends
 
 > [[Eliesser]]
+> 
 > [[Lindsay]]
 
 ## notes and extra info
