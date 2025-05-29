@@ -11,6 +11,7 @@ Jayden has a job at a Taco place, his uncle was the one who got the job for him 
  ## Main friends
 
 > [[Jhonny]]
+>
 > [[Eliesser]]
 
 ## notes and extra info
