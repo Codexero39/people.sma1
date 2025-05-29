@@ -15,14 +15,23 @@ He used to make super simple games during 2021-early 2023, first with an old pho
 ## Main friends
 
 >[[Esteban]]
+>
 >[[Kamilah]]
+>
 >[[Rebecca]]
+>
 >[[Zhaele]]
+>
 >[[Lindsay]]
+>
 >[[Bryant]]
+>
 >[[Miguel G]]
+>
 >[[Emily B]]
+>
 >[[Jhonny]]
+>
 >[[Atlas]]
 
 And some more, they are not necessarily in any specific order, nor they are in one compact group but rather in small connections, they all know a little bit of each other, but no one knows anyone completely or enough to be close friends.
