@@ -9,15 +9,15 @@ h1, h2, h3, h4, h5, h6 {
 p{
     color: #78bdcc !important;
 } 
-/* unvisited link */
 a:link {
   color: #e67ebd;
 }
-/* visited link */
 a:visited {
   color: #e67ebd;
 }
-/* mouse over link */
 a:hover {
   color: hotpink;
+}
+a:active {
+  color: #78bdcc;
 }
