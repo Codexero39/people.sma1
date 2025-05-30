@@ -2,7 +2,7 @@
     background: #2a262e !important;
 }
 h1, h2, h3, h4, h5, h6 {
-font-family: Inter, sans-serif !important;
-  font-feature-settings: 'liga' 1, 'calt' 1;
-  color: #d30c7b !important;
+    font-family: "Lucida Console", "Courier New", monospace !important;
+    font-weight: bold !important;
+    color: #d30c7b !important;
 }
