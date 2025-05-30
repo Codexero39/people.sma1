@@ -1,4 +1,4 @@
-h1 {
+h1, h2, h3, h4, h5, h6 {
 font-family: Inter, sans-serif;
   font-feature-settings: 'liga' 1, 'calt' 1;
   color: #d30c7b;
