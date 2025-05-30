@@ -2,7 +2,7 @@
     background: #23212c !important;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Lucida Console", "Courier New", monospace !important;
+    font-family: Inter, sans-serif; !important;
     font-weight: bold !important;
     color: #e67ebd !important;
 }
