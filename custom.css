@@ -13,6 +13,10 @@ p{
 a:link {
   color: #e67ebd;
 }
+/* visited link */
+a:visited {
+  color: #e67ebd;
+}
 /* mouse over link */
 a:hover {
   color: hotpink;
