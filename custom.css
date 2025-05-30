@@ -1,8 +1,8 @@
 .bg-background {
-    background: #2a262e !important;
+    background: #23212c !important;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: "Lucida Console", "Courier New", monospace !important;
     font-weight: bold !important;
-    color: #d30c7b !important;
+    color: #e67ebd !important;
 }
